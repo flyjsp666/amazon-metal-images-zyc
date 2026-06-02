@@ -1,0 +1,8 @@
+interface:
+  display_name: "amazon-metal-images-zyc"
+  short_description: "Create Amazon US iron-art listing image sets."
+  default_prompt: "Use $amazon-metal-images-zyc with three uploaded reference images and a product title to create a seven-image Amazon US iron-art listing image set."
+
+policy:
+  allow_implicit_invocation: true
+
